@@ -47,7 +47,8 @@ nav ul li a {
 }
 
 header {
-    background-position-y: 40px;
+    background-position-y: 35px;
+    background-position-x: -20px;
     background-image: url('https://wallpapercave.com/wp/wp10138087.jpg');
     color: #ffffff;
     min-height: 100vh;
